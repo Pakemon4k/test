@@ -1,0 +1,11 @@
+.block{
+    display: flex;
+    flex-wrap: wrap;
+}
+.h1{
+    border:2px solid black;
+    width:250px;
+    height:250px;
+    margin:20px;
+
+}
